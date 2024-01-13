@@ -21,5 +21,5 @@ To delete a tag locally :$git tag -d <tagname>
 
 To delete a tag on the remote repository:$git push --delete origin <tagname>
 
-![lab1 image ]("Screenshot 2024-01-12 114411.png")
+![lab1 image ](lab.png)
 
