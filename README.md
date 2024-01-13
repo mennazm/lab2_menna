@@ -8,3 +8,8 @@
 
 
 #Delete the dev branch on the remote repository : $git push origin --delete dev
+
+
+
+
+To list tags in a Git repository we use this command :git tag -l 
