@@ -12,4 +12,11 @@
 
 
 
-To list tags in a Git repository we use this command :git tag -l 
+To list tags in a Git repository we use this command :$git tag -l 
+
+
+To delete a tag locally :$git tag -d <tagname>
+
+
+
+To delete a tag on the remote repository:$git push --delete origin <tagname>
